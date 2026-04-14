@@ -43,3 +43,5 @@ terraform destroy
 Asma Slimani — Junior DevOps Engineer
 LinkedIn : https://www.linkedin.com/in/asma-slimani-4a732a296/
 GitHub   : https://github.com/AsmaSlimanii
+## Azure Resources Screenshot
+![Azure Resources](azure-resources.png)
