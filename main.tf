@@ -15,7 +15,7 @@ provider "azurerm" {
 # Resource Group
 resource "azurerm_resource_group" "rg" {
   name     = "devops-project-rg"
-  location = "West Europe"
+  location = "East US"
 }
 
 # Virtual Network
